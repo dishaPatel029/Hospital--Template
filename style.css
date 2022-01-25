@@ -1,0 +1,54 @@
+*{box-sizing: border-box;}
+
+.container-fluid{
+    background-color:black;
+}
+div{
+    background-color: white;
+    color: white;
+    margin:-5px;
+    padding-left: 10px;
+    
+
+}
+.search-container{
+    background-color: white;
+    padding-left: 900px ;
+    margin: -40px;
+    padding-bottom: 20px;
+}
+.search-container input[type=text]{
+    border-color: blue;
+}
+.section{
+    padding: 200px;
+    background-color: white;
+    background-image: url('main_banner.jpg');
+    background-repeat: no-repeat;
+    height:100px;
+    width: 1290px;
+    
+
+}
+.section1{
+    background-color: blue;
+    
+
+}
+li a{
+    color: white;
+    padding: 30px;
+
+}
+.section2{
+    background-color: white;
+    color:black;
+    text-align: center;
+    font-size: 1px;
+}
+.row{
+    background-color: white;
+}
+
+
+
